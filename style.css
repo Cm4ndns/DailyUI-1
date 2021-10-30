@@ -1,0 +1,97 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.arrow a {
+  font-size: 1.2rem;
+}
+
+a:hover {
+  color: white;
+}
+
+h1 {
+  font-size: 2.2rem;
+  font-family: "Ultra";
+}
+
+p {
+  font-family: "Itim";
+}
+
+.logo {
+  height: 1.5rem;
+  width: 1.5rem;
+  border: 1px solid rgb(240, 238, 238);
+  background-color: rgb(240, 238, 238);
+  border-radius: 40%;
+}
+
+.top {
+  display: flex;
+  float: right;
+  margin-top: 3rem;
+}
+
+.top p {
+  margin-left: 0.5rem;
+  margin-top: 0.2rem;
+  color: #6c63ff;
+
+  font-weight: bold;
+}
+
+/* Images Section */
+.middle-images {
+  height: 20rem;
+  margin-bottom: 5rem;
+}
+
+/* Text Area */
+.text h1 {
+  color: #6c63ff;
+}
+
+.text p {
+  color: rgb(109, 107, 107);
+  margin-bottom: 0;
+}
+
+.btn {
+  background: #6c63ff;
+  background-image: -webkit-linear-gradient(top, #6c63ff, #6c63ff);
+  background-image: -moz-linear-gradient(top, #6c63ff, #6c63ff);
+  background-image: -ms-linear-gradient(top, #6c63ff, #6c63ff);
+  background-image: -o-linear-gradient(top, #6c63ff, #6c63ff);
+  background-image: linear-gradient(to bottom, #6c63ff, #6c63ff);
+  -webkit-border-radius: 50;
+  -moz-border-radius: 50;
+  border-radius: 50px;
+  font-family: "Itim";
+  font-size: 1rem;
+  padding: 0 0.8rem;
+  padding-bottom: 0.3rem;
+  border: solid #6c63ff 0.1px;
+  /* border-radius: 90%; */
+  float: right;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3f37d8;
+  background-image: -webkit-linear-gradient(top, #554deb, #554deb);
+  background-image: -moz-linear-gradient(top, #554deb, #554deb);
+  background-image: -ms-linear-gradient(top, #554deb, #554deb);
+  background-image: -o-linear-gradient(top, #554deb, #554deb);
+  background-image: linear-gradient(to bottom, #554deb, #554deb);
+  text-decoration: none;
+}
+
+.arrow {
+  margin-right: 1rem;
+}
