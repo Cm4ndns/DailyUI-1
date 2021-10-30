@@ -13,6 +13,7 @@ a {
   background-color: #6c63ff;
   font-family: "Itim";
   margin-left: 2rem;
+  margin-right: 2rem;
 }
 
 .btn a {
@@ -30,7 +31,7 @@ a {
 }
 
 img {
-  width: 115%;
+  width: 100%;
   text-align: center;
 }
 
@@ -49,6 +50,7 @@ input {
   justify-content: space-between;
   padding: 10px 9px;
   margin-left: 2rem;
+  margin-right: 2rem;
   margin-bottom: 1.5rem;
 }
 
